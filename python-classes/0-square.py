@@ -3,4 +3,4 @@
 # Define an empty class Square
 
 class Square:
-    pass
+    pass  '''This will create an empty class'''
