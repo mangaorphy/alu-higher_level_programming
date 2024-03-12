@@ -2,6 +2,7 @@
 
 '''Define an empty class'''
 
+
 class Rectangle:
     '''Representing Rectangle'''
     pass
