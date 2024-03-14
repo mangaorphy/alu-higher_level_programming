@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-''' A function that returns the lists of variable attributes and methods of an object.'''
+''' A function that returns the lists of variable attributes'''
 
 
 def lookup(obj):
