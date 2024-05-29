@@ -7,3 +7,4 @@ if (process.argv.length < 3) {
 } else {
     console.log('Arguments found');
 }
+
